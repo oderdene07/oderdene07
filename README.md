@@ -24,7 +24,7 @@ I am student of National University of Mongolia as a Software Engineer.
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/od-erdene-natsagdorj-73a7861b9/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://www.facebook.com/odko007)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://www.facebook.com/odko007)
 
 <br>
 <br>
@@ -33,10 +33,3 @@ I am student of National University of Mongolia as a Software Engineer.
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="golang" src="https://img.shields.io/badge/Golang-%236ad6e3?logo=go&logoColor=white&style=for-the-badge" />
 
-<br>
-<br>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
