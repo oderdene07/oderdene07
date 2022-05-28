@@ -28,6 +28,7 @@ I am student of National University of Mongolia as a Software Engineer.
 
 <br>
 <br>
+
 ## Expertise
 <img align="left" alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
