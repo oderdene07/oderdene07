@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=oderdene07&show_icons=true&theme=tokyonight" alt="oderdene07" />
+
 ## Expertise
 
 <img align="left" alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
