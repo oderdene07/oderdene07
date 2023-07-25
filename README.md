@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am student of National University of Mongolia as a Software Engineer.
-
-- 🔭 Experinced with frontend and backend projects using Vue and Golang
+- 🌱  I'm Front-End developer
+- 🔭  I'm currently working on Next.JS project
 
 <br>
 
