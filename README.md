@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-## Connect with me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/od-erdene-natsagdorj-73a7861b9/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/odko007)
+**Let's connect**: [LinkedIn](https://www.linkedin.com/in/od-erdene-natsagdorj-73a7861b9/) • [Facebook](https://www.facebook.com/odko007)
 
 
 
