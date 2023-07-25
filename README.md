@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oderdene07\&rank_icon=github&theme=tokyonight" alt="oderdene07" />
+<img src="https://github-readme-stats.vercel.app/api?username=oderdene07&show_icons=true&theme=tokyonight\&rank_icon=github" alt="oderdene07" />
 
 ## Expertise
 
