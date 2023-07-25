@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ## Expertise
 
+<img align="left" alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="golang" src="https://img.shields.io/badge/Golang-%236ad6e3?logo=go&logoColor=white&style=for-the-badge" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br>
 <br>
