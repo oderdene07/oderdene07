@@ -26,8 +26,5 @@ Here are some ideas to get you started:
 <img align="left" alt="golang" src="https://img.shields.io/badge/Golang-%236ad6e3?logo=go&logoColor=white&style=for-the-badge" />
 
 <br>
-<br>
+
 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/od-erdene-natsagdorj-73a7861b9/) • [Facebook](https://www.facebook.com/odko007)
-
-
-
